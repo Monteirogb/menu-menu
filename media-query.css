@@ -7,7 +7,8 @@
    menu{
     display: block;
     margin: auto;
-    margin-right: 10px;
+    margin-top: 25px;
+    margin-right: 20px;
     text-align: right;
    }
    menu > ul > li{
